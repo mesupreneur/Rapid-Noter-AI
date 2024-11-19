@@ -64,23 +64,22 @@ export default function Home() {
           <div className="grid md:grid-cols-3 gap-12">
             <div className="flex flex-col items-center text-center">
               <h3 className="text-2xl font-semibold mb-4">
-                Multiple PDF Uploads
+                Instant Answers at Your Fingertips
               </h3>
               <p className="text-lg">
-                Easily upload and manage multiple PDFs for seamless note-taking.
+                Get access to a personal research assistant that answers any question in seconds, helping you stay informed and efficient.
               </p>
             </div>
             <div className="flex flex-col items-center text-center">
-              <h3 className="text-2xl font-semibold mb-4">Unlimited Notes</h3>
+              <h3 className="text-2xl font-semibold mb-4">AI-Powered Answer Generation</h3>
               <p className="text-lg">
-                Take unlimited notes with full flexibility to organize them your
-                way.
+                Ask complex questions and receive detailed, accurate answers powered by AI, making research and decision-making faster than ever.
               </p>
             </div>
             <div className="flex flex-col items-center text-center">
               <h3 className="text-2xl font-semibold mb-4">Cloud Sync</h3>
               <p className="text-lg">
-                Access your notes anytime, anywhere with secure cloud sync
+                Access your answers anytime, anywhere with secure cloud sync
                 across devices.
               </p>
             </div>
