@@ -77,9 +77,9 @@ export default function Home() {
               </p>
             </div>
             <div className="flex flex-col items-center text-center">
-              <h3 className="text-2xl font-semibold mb-4">Seamless Cloud Sync Across All Devices</h3>
+              <h3 className="text-2xl font-semibold mb-4">Cloud Sync Across Devices</h3>
               <p className="text-lg">
-                Access your answers from any device at any time, with secure cloud synchronization that ensures your information is always up-to-date and readily available wherever you go.
+Access your answers anytime, anywhere, with secure cloud synchronization, ensuring up-to-date information across all devices.
               </p>
             </div>
           </div>
