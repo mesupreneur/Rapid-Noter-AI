@@ -127,20 +127,20 @@ export default function Home() {
       </section>
 
       {/* Explainer Video */}
-      <section className="py-24 bg-gray-900 text-white">
+      <section className="py-20 bg-gray-900 text-white">
         <div className="container mx-auto text-center">
           <h2 className="text-4xl font-extrabold mb-6">
             See It in Action (Demo)
           </h2>
-          <p className="text-lg mb-8">
+          <p className="text-lg mb-7">
             Watch how Rapid Noter AI transforms your notes into brilliance.
           </p>
-          <div className="relative w-full max-w-5xl mx-auto">
+          <div className="relative w-full max-w-4xl mx-auto">
             <iframe
               src="https://player.vimeo.com/video/1032621671?title=0&byline=0&portrait=0"
               className="w-full aspect-video rounded-lg shadow-lg"
-              width="960"
-              height="540"
+              width="640"
+              height="360"
               allow="autoplay; fullscreen; picture-in-picture"
               allowFullScreen
               title="Rapid Noter AI Demo"
