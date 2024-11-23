@@ -169,9 +169,11 @@ export default function Home() {
                 <li>Email Support</li>
                 <li>Help Center Access</li>
               </ul>
+              <Link href="/sign-up">
               <button className="mt-6 w-full bg-indigo-600 text-white py-3 rounded-lg text-lg font-semibold hover:bg-indigo-700 transition">
                 Get Started For Free
               </button>
+              </Link>
             </div>
             {/* Starter Plan */}
             <div className="bg-gradient-to-br from-indigo-600 to-purple-600 text-white shadow-lg rounded-lg p-8 transform scale-105">
@@ -183,9 +185,11 @@ export default function Home() {
                 <li>Priority Email Support</li>
                 <li>Help Center Access</li>
               </ul>
+              <Link href="/sign-up">
               <button className="mt-6 w-full bg-white text-indigo-600 py-3 rounded-lg text-lg font-semibold hover:bg-gray-100 transition">
                 Upgrade Now
               </button>
+              </Link>
             </div>
           </div>
         </div>
