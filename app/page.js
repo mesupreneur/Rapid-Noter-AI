@@ -139,8 +139,8 @@ export default function Home() {
             <iframe
               src="https://player.vimeo.com/video/1032621671?title=0&byline=0&portrait=0"
               className="w-full aspect-video rounded-lg shadow-lg"
-              width="640"
-              height="360"
+              width="720"
+              height="405"
               allow="autoplay; fullscreen; picture-in-picture"
               allowFullScreen
               title="Rapid Noter AI Demo"
